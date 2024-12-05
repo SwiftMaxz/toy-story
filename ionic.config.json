@@ -1,0 +1,7 @@
+{
+  "name": "toy-story",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
